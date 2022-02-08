@@ -8,7 +8,7 @@ import requests
 
 # 아래 값은 필요시 수정
 protocol = 'https'
-domain = 'api.solapi.com'
+domain = 'api.coolsms.co.kr'
 prefix = ''
 
 

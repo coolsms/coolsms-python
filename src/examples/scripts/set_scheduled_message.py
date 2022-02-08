@@ -9,7 +9,7 @@ import platform
 
 # 아래 값은 필요시 수정
 protocol = 'https'
-domain = 'api.solapi.com'
+domain = 'api.coolsms.co.kr'
 prefix = ''
 
 # 반드시 관리 콘솔 내 발급 받으신 API KEY, API SECRET KEY를 입력해주세요
